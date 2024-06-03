@@ -1,4 +1,4 @@
-public class _15p5_invertedAndRotatedHalfPyramidWithNumber {
+public class _15p4_invertedAndRotatedHalfPyramidWithNumber {
     public static void numpyramid(int n) {
         for (int i = n; i >= 1; i--) {
             for (int j = 1; j <= i; j++) {
