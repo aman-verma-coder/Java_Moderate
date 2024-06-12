@@ -1,4 +1,4 @@
-public class _17p2_maxSubArraySum {
+public class _17p2_maxSubArraySumPrefixMethod {
     public static void printMaxSum(int num[]) {
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE;
